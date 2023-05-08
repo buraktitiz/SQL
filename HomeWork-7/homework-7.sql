@@ -10,7 +10,7 @@
 
 -- 3. customer tablosunda bulunan store_id değerlerine karşılık gelen müşteri sayılarını nelerdir? 
 -- SELECT store_id, COUNT(store_id) FROM customer
--- GROUP BY store_id
+-- GROUP BY store_id;
 
 -- 4. city tablosunda bulunan şehir verilerini country_id sütununa göre gruplandırdıktan sonra en fazla şehir sayısı barındıran country_id bilgisini ve şehir sayısını paylaşınız.
 -- SELECT country_id, COUNT(*) FROM city
