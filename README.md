@@ -1,6 +1,6 @@
 # SQL
 Patikadev ile devam eden eğitimde PostSQL ile çalışan SQL projeleri gerçekleştiriyoruz.
-Bu README bölümünde GENEL SORGULARIN bulunduğu kodları görmekteyiz. SQL'le alakalı diğer tüm kodlara SQL reposundan içeri girerek bakabilirsiniz.
+Bu README bölümünde GENEL SORGULARIN bulunduğu kodları görmekteyiz. SQL'le alakalı diğer tüm kodlara SQL reposundan ulaşabilirsiniz.
 
 ###### 1. film tablosundan 'K' karakteri ile başlayan en uzun ve replacenet_cost'u en düşük 4 filmi sıralayınız.
 `SELECT title, length, replacement_cost FROM film` <br>
